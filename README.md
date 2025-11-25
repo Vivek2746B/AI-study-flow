@@ -32,7 +32,7 @@ Unlike basic chatbots, this agent employs an **agentic workflow** to route tasks
 1.  **Clone the Repository**
 
     ```bash
-    git clone [https://github.com/yourusername/ai-study-concierge.git](https://github.com/yourusername/ai-study-concierge.git)
+    git clone https://github.com/Vivek2746B/AI-study-flow.git
     cd ai-study-concierge
     ```
 
